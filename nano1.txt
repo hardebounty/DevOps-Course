@@ -1,1 +1,4 @@
-Second file for DevOps process
+Second file for DevOps process.
+This file has been modified and Git is expected to track this.
+
+Addinging more information to the files
